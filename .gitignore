@@ -1,6 +1,8 @@
 Build
 _build
 blib
-META.yml
 Makefile.PL
+META.yml
 README
+*.tar.gz
+*.bak
